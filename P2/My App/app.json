@@ -9,7 +9,7 @@
   },
   "screenshots": [],
   "description": "Hello World sample app for AppSource",
-  "version": "1.0.0.0",
+  "version": "2.1.0.0",
   "brief": "Hello World for AppSource",
   "contextSensitiveHelpUrl": "https://github.com/BusinessCentralApps/helloworld.appsource",
   "logo": "helloworld256x240.png",
