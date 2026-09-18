@@ -6,5 +6,6 @@
   "doNotPublishApps": false,
   "templateUrl": "https://github.com/businesscentralapps/tmpMgq6El-AppSource@main",
   "useCompilerFolder": false,
-  "shell": "pwsh"
+  "shell": "pwsh",
+  "templateSha": "b2a3e39bb613c37d5a784e570f1610ad70a9bfac"
 }
